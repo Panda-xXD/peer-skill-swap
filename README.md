@@ -1,23 +1,84 @@
 # Peer Skill Swap
-Peer Skill Swap is a web application aimed at fostering a community where users can exchange skills and knowledge with one another. Whether you want to learn a new language, pick up coding, or share a hobby, this platform will help connect peers for mutual learning through skill swapping.
-> **Note:** This project is currently in early development. Core features are being implemented and improvements are ongoing.
+
+> A platform to connect people for exchanging skills peer-to-peer.
+
 ---
+
+## Table of Contents
+- [About The Project](#about-the-project)
+- [Features](#features)
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## About The Project
+
+Peer Skill Swap is a web application designed to facilitate skill exchange between users. Whether you want to teach or learn a new skill, this platform helps you connect with peers who share your interests.
+
+---
+
 ## Features
-### 1. User Skill Profiles  
-Users will be able to create detailed profiles highlighting their skills they want to teach and the skills they want to learn. This helps in matching users with complementary interests.
-### 2. Skill Matching System  
-The app will provide a matching algorithm to connect users interested in swapping specific skills, facilitating easier peer-to-peer learning connections.
-### 3. Real-Time Chat  
-Once matched, users can communicate via a built-in chat system to arrange sessions and share resources.
-### 4. Scheduling & Notifications  
-Users can schedule skill swap sessions, and receive notifications and reminders to keep engagements active.
-### 5. Ratings and Feedback  
-After skill swap sessions, users will be able to rate their experience and provide feedback, helping to build trust and improve the community.
+
+- User registration and authentication
+- Personalized user profiles
+- Skill listings (skills you offer and skills you want to learn)
+- Messaging system to connect peers (future enhancement)
+- Responsive and clean UI with Tailwind CSS
+
 ---
+
+## Demo
+
+You can see the live demo here:  
+[Insert live demo URL if available]
+
+---
+
+## Screenshots
+
+### Home Page
+![Home Page Screenshot](<img width="1313" height="677" alt="image" src="https://github.com/user-attachments/assets/34d58060-6274-4952-a8ce-e012abce126f" />)
+
+### User Profile
+![User Profile Screenshot](<img width="255" height="460" alt="image" src="https://github.com/user-attachments/assets/c42e893b-bd3b-4a26-b180-478f0b320807" />
+)
+
+### Skill Listing
+![Skill Listing Screenshot](./<img width="545" height="193" alt="image" src="https://github.com/user-attachments/assets/35980993-33e3-4807-ad03-ed3e1d41b059" />/skills.png)
+
+*Note: Replace these image paths with your actual screenshots in the `screenshots` folder.*
+
+---
+
 ## Tech Stack
-- **TypeScript:** Ensures type safety and helps catch bugs early.
-- **Vite:** A fast and modern build tool for frontend development.
-- **Tailwind CSS:** A utility-first CSS framework for rapid UI styling.
-- **ESLint:** Code quality and linting tool to maintain consistent coding standards.
-- **PostCSS:** Processes CSS to support modern syntax and optimizations.
-- **Node.js & npm:** For managing dependencies and running scripts.
+
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React (optional)
+- **Backend:** Node.js, Express (optional)
+- **Database:** MongoDB (optional)
+- **Tools:** ESLint, Prettier, PostCSS, TypeScript (if applicable)
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js v16+
+- MongoDB (local or cloud)
+- npm or yarn
+
+### Installation
+
+1. Clone the repo
+
+```bash
+git clone https://github.com/Panda-xXD/peer-skill-swap.git
+cd peer-skill-swap
