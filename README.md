@@ -11,11 +11,7 @@
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
@@ -38,23 +34,21 @@ Peer Skill Swap is a web application designed to facilitate skill exchange betwe
 ## Demo
 
 You can see the live demo here:  
-[Insert live demo URL if available]
+[https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--96435430.local-credentialless.webcontainer-api.io]
 
 ---
 
 ## Screenshots
 
 ### Home Page
-![Home Page Screenshot](<img width="1313" height="677" alt="image" src="https://github.com/user-attachments/assets/34d58060-6274-4952-a8ce-e012abce126f" />)
+<img width="1313" height="677" alt="image" src="https://github.com/user-attachments/assets/34d58060-6274-4952-a8ce-e012abce126f" />
 
 ### User Profile
-![User Profile Screenshot](<img width="255" height="460" alt="image" src="https://github.com/user-attachments/assets/c42e893b-bd3b-4a26-b180-478f0b320807" />
-)
+<img width="255" height="460" alt="image" src="https://github.com/user-attachments/assets/c42e893b-bd3b-4a26-b180-478f0b320807" />
+
 
 ### Skill Listing
-![Skill Listing Screenshot](./<img width="545" height="193" alt="image" src="https://github.com/user-attachments/assets/35980993-33e3-4807-ad03-ed3e1d41b059" />/skills.png)
-
-*Note: Replace these image paths with your actual screenshots in the `screenshots` folder.*
+<img width="545" height="193" alt="image" src="https://github.com/user-attachments/assets/35980993-33e3-4807-ad03-ed3e1d41b059" />
 
 ---
 
