@@ -74,13 +74,13 @@ You can see the live demo here:
 ### Prerequisites
 
 - Node.js v16+
+- Git
 - MongoDB (local or cloud)
 - npm or yarn
 
 ### Installation
 
 1. Clone the repo
-
 ```bash
 git clone https://github.com/Panda-xXD/peer-skill-swap.git
 cd peer-skill-swap
