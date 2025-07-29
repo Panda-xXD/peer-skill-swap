@@ -17,8 +17,7 @@
 
 ## About The Project
 
-Peer Skill Swap is a web application designed to facilitate skill exchange between users. Whether you want to teach or learn a new skill, this platform helps you connect with peers who share your interests.
-
+Peer Skill Swap is an innovative platform designed to foster a community where individuals can exchange skills and knowledge directly with one another. In today’s fast-paced world, learning new skills and sharing expertise often comes with barriers like cost, accessibility, or finding the right mentor. This project aims to break down those barriers by enabling peer-to-peer learning in an intuitive and collaborative environment.
 ---
 
 ## Features
